@@ -29,7 +29,10 @@ We established that a region was a TLS based on two criteria: a local immunocyte
 You can manually adjust the threshold and export the results based on the data characteristics, just like in the following video.
 
 
-https://github.com/Tang-Lab-super/ciTLSs/docs/40788743/747594a1-0093-462a-a173-d3ef448d1270
+
+
+https://github.com/Tang-Lab-super/ciTLSs/assets/40788743/2a5751bf-d53f-4eb6-b816-f858a26e4e83
+
 
 
 
