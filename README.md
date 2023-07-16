@@ -8,7 +8,7 @@
 
 <p align = "center"><img src="./docs/cover.png" width="600" /></p>
 
-In this repository, you could access to the code used to analysis the Stereo-seq, snRNA-seq and sn-ATAC-seq data from the associated manuscript.
+In this repository, you could access to the code used to analysis the Stereo-seq, scRNA-seq and scATAC-seq data from the associated manuscript.
 
 1) Video and scripts for TLS identification using spatial transcriptomics are avaliable in [001.TLS_Identification](https://github.com/Tang-Lab-super/ciTLSs/tree/main/001.TLS_Identification)
 
